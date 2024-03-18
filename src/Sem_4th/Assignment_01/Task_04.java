@@ -26,7 +26,6 @@ public class Task_04 {
                         return;
                     default:
                         System.out.println("Not applicable.");
-                        break;
                 }
             }
         }
